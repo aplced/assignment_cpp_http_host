@@ -1,3 +1,9 @@
+*/x64/
+*/x86/
+*/Debug/
+*/Release/
+*/.vs/
+
 # Prerequisites
 *.d
 
